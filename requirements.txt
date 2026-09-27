@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+python-dotenv
+joblib
+faker
+pyarrow
+pytest
+httpx
